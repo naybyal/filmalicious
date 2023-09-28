@@ -45,12 +45,9 @@ const App = () => {
                     alt="Search"
                     onClick={() => searchMovies(searchTerm)}
                  />
-            </div>
-
-            {
+            </div>{
                 movies?.length > 0 ? (
-                    <div className='container'>
-                        {
+                    <div className='container'>{
                             movies.map((movie) => (
                                 <Card movie={movie} />
                             ))
@@ -61,9 +58,7 @@ const App = () => {
                         <h2>No movies found.</h2>
                     </div>
                 )
-            }
-
-           
+            }        
         </div>
     );
 }
