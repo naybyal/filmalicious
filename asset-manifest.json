@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/filmalicious/static/css/main.334bdeb1.css",
-    "main.js": "/filmalicious/static/js/main.b00c2054.js",
+    "main.js": "/filmalicious/static/js/main.d1cca0bf.js",
     "index.html": "/filmalicious/index.html",
     "static/media/search.svg": "/filmalicious/static/media/search.698d06e081614daacc022fcc3bf50bb8.svg",
     "main.334bdeb1.css.map": "/filmalicious/static/css/main.334bdeb1.css.map",
-    "main.b00c2054.js.map": "/filmalicious/static/js/main.b00c2054.js.map"
+    "main.d1cca0bf.js.map": "/filmalicious/static/js/main.d1cca0bf.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.b00c2054.js"
+    "static/js/main.d1cca0bf.js"
   ]
 }
