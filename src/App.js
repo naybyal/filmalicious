@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import './App.css'
 import SearchIcon from './search.svg'
 import Card from './Card'
-const API_URL = 'http://omdbapi.com?apikey=36e8688e'
+const API_URL = 'https://omdbapi.com?apikey=36e8688e'
 
 // const movie1 = {
 //     "Title": "Sex and the City",
